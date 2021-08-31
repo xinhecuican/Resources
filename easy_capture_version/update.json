@@ -1,9 +1,15 @@
 {
     "0": {
-        "description": "更新测试",
-        "time": "周四 7月 22 09:18:56 2021",
-        "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.0.1.zip",
-        "version": "0.0.1"
+        "description": "",
+        "time": "周五 7月 23 17:38:56 2021",
+        "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.1.0.zip",
+        "version": "0.1.0"
     },
-    "update_sum": 1
+    "1": {
+        "description": "1. 实现了滚动截图\n2. 将矩形窗口和活动窗口截图合并\n3. 修复了绘图窗口复制到剪切板导致的内存泄露\n4. 修复了无法自动启动的错误\n4. 体验优化及bug修复",
+        "time": "周二 8月 31 12:19:18 2021",
+        "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.2.0.7z",
+        "version": "0.2.0"
+    },
+    "update_sum": 2
 }
