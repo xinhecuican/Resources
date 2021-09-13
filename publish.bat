@@ -3,7 +3,7 @@ git add .
 
 @echo off
 
-set /p message=输入上传消息:
+set /p message=enter commit message:
 
 @echo on
 
