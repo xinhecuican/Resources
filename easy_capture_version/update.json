@@ -23,5 +23,11 @@
         "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.2.2.zip",
         "version": "0.2.2"
     },
-    "update_sum": 4
+    "4": {
+        "description": "1. 修复了图片保存时保存边框的问题\n2. 增加了文本框\n3. 增加了滚动截屏速度的调节",
+        "time": "周一 9月 13 19:10:56 2021",
+        "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.2.3.zip",
+        "version": "0.2.3"
+    },
+    "update_sum": 5
 }
