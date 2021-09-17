@@ -29,5 +29,11 @@
         "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.2.3.zip",
         "version": "0.2.3"
     },
-    "update_sum": 5
+    "5": {
+        "description": "1. 修复若干bug\n2. 更新功能修复",
+        "time": "周五 9月 17 09:39:03 2021",
+        "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.2.4.zip",
+        "version": "0.2.4"
+    },
+    "update_sum": 6
 }
