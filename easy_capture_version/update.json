@@ -35,5 +35,11 @@
         "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.2.4.zip",
         "version": "0.2.4"
     },
-    "update_sum": 6
+    "6": {
+        "description": "1. 修复若干bug\n2. 修复上一版本引入的快捷键失效问题\n3. 减小不使用时的内存占用\n4. 完善了文本编辑功能，现在可以对每一小部分的文本格式进行设置\n5. 透明的颜色可以保存\n6. 对捕获窗口的样式进行了一些改进\n7. 改善了图片过大时滚动卡顿的问题",
+        "time": "周五 9月 24 16:36:19 2021",
+        "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.3.0.zip",
+        "version": "0.3.0"
+    },
+    "update_sum": 7
 }
