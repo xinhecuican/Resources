@@ -65,5 +65,11 @@
         "url": "https://cdn.jsdelivr.net/gh/xinhecuican/Resources/easy_capture_version/0.3.4.zip",
         "version": "0.3.4"
     },
-    "update_sum": 11
+    "11": {
+        "description": "1. 保存时自动隐藏\n2. 修复了截图时有黑边的问题\n3. 扩充了滚动截图的适用范围，并稍微改进算法",
+        "time": "周二 11月 30 19:25:08 2021",
+        "url": "https://gitee.com/xinhecuican/Resources/raw/master/easy_capture_version/0.3.5.zip",
+        "version": "0.3.5"
+    },
+    "update_sum": 12
 }
