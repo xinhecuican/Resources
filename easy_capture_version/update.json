@@ -71,5 +71,11 @@
         "url": "https://gitee.com/xinhecuican/Resources/raw/master/easy_capture_version/0.3.5.zip",
         "version": "0.3.5"
     },
-    "update_sum": 12
+    "12": {
+        "description": "1. 现在可以在qq上截图了\n2. 进一步降低长时间不使用的内存占用和cpu消耗",
+        "time": "周日 12月 5 10:37:26 2021",
+        "url": "https://gitee.com/xinhecuican/Resources/raw/master/easy_capture_version/0.3.6.zip",
+        "version": "0.3.6"
+    },
+    "update_sum": 13
 }
