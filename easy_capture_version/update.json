@@ -80,8 +80,8 @@
     "13": {
         "description": "1. 增加了bug上传，更好的改进程序\n2. 使用新的架构实现绘图窗口，增加稳定性\n3. 修复了滚动截屏卡死的问题\n4. 进行了一些体验上的优化",
         "time": "周三 2月 23 11:21:34 2022",
-        "url": "https://gitee.com/xinhecuican/Resources/raw/master/easy_capture_version/0.3.7.zip",
-        "version": "0.3.7"
+        "url": "https://gitee.com/xinhecuican/Resources/raw/master/easy_capture_version/0.4.0.zip",
+        "version": "0.4.0"
     },
     "update_sum": 14
 }
